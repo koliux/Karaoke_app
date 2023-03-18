@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Karaoke_app" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>

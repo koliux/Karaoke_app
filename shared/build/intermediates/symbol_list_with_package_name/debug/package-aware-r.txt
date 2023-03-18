@@ -1,0 +1,2 @@
+com.example.karaoke_app.shared
+xml automotive_app_desc
